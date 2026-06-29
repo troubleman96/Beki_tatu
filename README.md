@@ -277,4 +277,4 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 ## Why "Beki_tatu"?
 
-The repo name is Swahili for "three bells" — a nod to the three warning chimes before the hammer drops on your repos. 🛎️🛎️🛎️
+The repo name is Swahili for "maid-worker"
